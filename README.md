@@ -18,7 +18,7 @@ A multi-page website showcasing an independent film collective community dedicat
 
 ## Published URL
 
-[(https://github.com/ahattar10/5-Build)]
+[https://ahattar10.github.io/5-Build/]
 
 ## Technologies Used
 
