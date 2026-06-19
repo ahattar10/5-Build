@@ -24,3 +24,4 @@ A multi-page website showcasing an independent film collective community dedicat
 
 - HTML5
 - CSS3 (Mobile-first, Responsive Design)
+Published URL: to be added after GitHub Pages setup
